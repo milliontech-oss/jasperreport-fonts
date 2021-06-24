@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="NimbusRomanNo9L">
+		<normal>fonts/NimbusRomanNo9L/NimbusRomNo9L-Reg.otf</normal>
+		<bold>fonts/NimbusRomanNo9L/NimbusRomNo9L-Med.otf</bold>
+		<italic>fonts/NimbusRomanNo9L/NimbusRomNo9L-RegIta.otf</italic>
+		<boldItalic>fonts/NimbusRomanNo9L/NimbusRomNo9L-MedIta.otf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+</fontFamilies>

@@ -1,0 +1,9 @@
+syntax:glob
+
+.git
+.hg
+.hg*
+
+*.orig
+
+target/*

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="NimbusSanL">
+		<normal>fonts/NimbusSanL/NimbusSanL-Reg.otf</normal>
+		<bold>fonts/NimbusSanL/NimbusSanL-Bol.otf</bold>
+		<italic>fonts/NimbusSanL/NimbusSanL-RegIta.otf</italic>
+		<boldItalic>fonts/NimbusSanL/NimbusSanL-BolIta.otf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+</fontFamilies>

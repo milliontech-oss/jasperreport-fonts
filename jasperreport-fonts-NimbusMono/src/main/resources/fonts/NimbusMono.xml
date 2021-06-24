@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="NimbusMono">
+		<normal>fonts/NimbusMono/NimbusMono-Regular.otf</normal>
+		<bold>fonts/NimbusMono/NimbusMono-Bold.otf</bold>
+		<italic>fonts/NimbusMono/NimbusMono-Oblique.otf</italic>
+		<boldItalic>fonts/NimbusMono/NimbusMono-BoldOblique.otf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+</fontFamilies>

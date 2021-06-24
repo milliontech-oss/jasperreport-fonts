@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="HanaMinA">
+		<normal>fonts/HanaMin/HanaMinA.ttf</normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+	<fontFamily name="HanaMinB">
+		<normal>fonts/HanaMin/HanaMinB.ttf</normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+	<fontFamily name="HanaMinPlus">
+		<normal>fonts/HanaMin/HanaMinPlus.ttf</normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	
+</fontFamilies>

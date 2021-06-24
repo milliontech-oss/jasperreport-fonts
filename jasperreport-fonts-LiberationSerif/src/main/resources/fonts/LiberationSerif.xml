@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="LiberationSerif">
+		<normal>fonts/LiberationSerif/LiberationSerif-Regular.ttf</normal>
+		<bold>fonts/LiberationSerif/LiberationSerif-Bold.ttf</bold>
+		<italic>fonts/LiberationSerif/LiberationSerif-Italic.ttf</italic>
+		<boldItalic>fonts/LiberationSerif/LiberationSerif-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+</fontFamilies>

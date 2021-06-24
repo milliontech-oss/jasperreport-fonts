@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="LiberationSans">
+		<normal>fonts/LiberationSans/LiberationSans-Regular.ttf</normal>
+		<bold>fonts/LiberationSans/LiberationSans-Bold.ttf</bold>
+		<italic>fonts/LiberationSans/LiberationSans-Italic.ttf</italic>
+		<boldItalic>fonts/LiberationSans/LiberationSans-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+</fontFamilies>
